@@ -2,7 +2,7 @@ package(default_visibility = ["//visibility:public"])
 
 licenses(["notice"])  # BSD/MIT-like license (for zlib)
 
-prefix_dir = "zlib-1.2.8"
+prefix_dir = "zlib-1.2.10"
 
 cc_library(
     name = "zlib",
